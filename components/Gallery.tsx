@@ -13,8 +13,8 @@ const trabajos = [
     title: "Sticker personalizado" 
   },
   { 
-    image: "https://images.unsplash.com/photo-1585386959984-a41552231658?q=80&w=800", 
-    title: "Diseño DTF" 
+  image: "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?q=80&w=800&auto=format&fit=crop", 
+  title: "Diseño DTF" 
   },
   { 
     image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?q=80&w=800", 
