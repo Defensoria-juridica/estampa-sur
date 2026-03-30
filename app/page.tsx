@@ -15,10 +15,9 @@ export default function Home() {
             Diseños únicos para regalos, negocios y emprendimientos
           </div>
           
-          <div className="mb-4 text-3xl md:text-4xl font-bold tracking-wider uppercase bg-gradient-to-r from-pink-500 via-blue-500 to-green-500 text-transparent bg-clip-text">
-           Estampa Sur
+          <div className="mb-6 text-3xl md:text-4xl font-bold tracking-[0.25em] uppercase bg-gradient-to-r from-pink-500 via-blue-500 to-green-500 text-transparent bg-clip-text">
+          ESTAMPA SUR
           </div>
-
           <h1 className="max-w-4xl text-5xl font-extrabold leading-tight tracking-tight md:text-7xl">
             Personalizamos tus{" "}
             <span className="bg-gradient-to-r from-pink-500 via-cyan-500 to-green-500 bg-clip-text text-transparent">
