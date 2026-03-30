@@ -1,12 +1,12 @@
 export default function Gallery() {
-  const trabajos = [
-    { image: "/images/galeria-1.jpg", title: "Polera personalizada" },
-    { image: "/images/galeria-2.jpg", title: "Tazón personalizado" },
-    { image: "/images/galeria-3.jpg", title: "Sticker personalizado" },
-    { image: "/images/galeria-4.jpg", title: "Diseño DTF" },
-    { image: "/images/galeria-5.jpg", title: "Regalo personalizado" },
-    { image: "/images/galeria-6.jpg", title: "Trabajo para emprendimiento" },
-  ];
+const trabajos = [
+  { image: "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab", title: "Polera personalizada" },
+  { image: "https://images.unsplash.com/photo-1514228742587-6b1558fcf93a", title: "Tazón personalizado" },
+  { image: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c", title: "Sticker personalizado" },
+  { image: "https://images.unsplash.com/photo-1585386959984-a41552231658", title: "Diseño DTF" },
+  { image: "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da", title: "Regalo personalizado" },
+  { image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d", title: "Trabajo para emprendimiento" },
+];
 
   return (
     <section className="py-20 bg-neutral-50">
