@@ -16,7 +16,7 @@ export default function Footer() {
           <div>
             <h4 className="text-lg font-semibold">Contacto</h4>
             <ul className="mt-4 space-y-3 text-sm text-gray-300">
-              <li>WhatsApp: +56 9 5601 0398</li>
+              <li>WhatsApp: +56 9 2393 1601</li>
               <li>Puerto Montt, Chile</li>
               <li>Atención personalizada por mensaje</li>
             </ul>
