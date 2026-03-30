@@ -14,8 +14,9 @@ export default function Home() {
           <div className="mb-6 inline-flex rounded-full border border-gray-200 bg-white px-4 py-2 text-sm font-medium text-gray-700 shadow-sm">
             Diseños únicos para regalos, negocios y emprendimientos
           </div>
-          <div className="mb-4 text-sm font-semibold tracking-wider text-gray-500 uppercase">
-          Estampa Sur
+          
+          <div className="mb-4 text-3xl md:text-4xl font-bold tracking-wider uppercase bg-gradient-to-r from-pink-500 via-blue-500 to-green-500 text-transparent bg-clip-text">
+           Estampa Sur
           </div>
 
           <h1 className="max-w-4xl text-5xl font-extrabold leading-tight tracking-tight md:text-7xl">
