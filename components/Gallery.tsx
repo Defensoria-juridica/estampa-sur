@@ -36,8 +36,8 @@ const trabajos = [
             Inspiración para tus pedidos
           </h2>
           <p className="mt-4 text-gray-600 max-w-2xl mx-auto">
-            Algunos ejemplos de productos personalizados hechos con dedicación,
-            creatividad y atención a cada detalle.
+             Algunos ejemplos de productos personalizados hechos con dedicación,
+             creatividad y atención a cada detalle.
           </p>
         </div>
 
