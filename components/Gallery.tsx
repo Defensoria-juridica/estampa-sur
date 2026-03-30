@@ -1,13 +1,30 @@
 export default function Gallery() {
 const trabajos = [
-  { image: "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab", title: "Polera personalizada" },
-  { image: "https://images.unsplash.com/photo-1514228742587-6b1558fcf93a", title: "Tazón personalizado" },
-  { image: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c", title: "Sticker personalizado" },
-  { image: "https://images.unsplash.com/photo-1585386959984-a41552231658", title: "Diseño DTF" },
-  { image: "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da", title: "Regalo personalizado" },
-  { image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d", title: "Trabajo para emprendimiento" },
+  { 
+    image: "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?q=80&w=800", 
+    title: "Polera personalizada" 
+  },
+  { 
+    image: "https://images.unsplash.com/photo-1509042239860-f550ce710b93?q=80&w=800", 
+    title: "Tazón personalizado" 
+  },
+  { 
+    image: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=800", 
+    title: "Sticker personalizado" 
+  },
+  { 
+    image: "https://images.unsplash.com/photo-1585386959984-a41552231658?q=80&w=800", 
+    title: "Diseño DTF" 
+  },
+  { 
+    image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?q=80&w=800", 
+    title: "Regalo personalizado" 
+  },
+  { 
+    image: "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?q=80&w=800", 
+    title: "Trabajo para emprendimiento" 
+  },
 ];
-
   return (
     <section className="py-20 bg-neutral-50">
       <div className="max-w-6xl mx-auto px-6">
