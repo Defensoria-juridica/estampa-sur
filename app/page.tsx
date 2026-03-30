@@ -54,7 +54,7 @@ export default function Home() {
       {/* SERVICIOS */}
       <section className="mx-auto max-w-6xl px-6 py-16">
         <div className="text-center">
-          <h2 className="text-3xl font-bold md:text-4xl">Lo que hacemos</h2>
+          <h2 className="text-3xl font-bold md:text-4xl">Productos Personalizados</h2>
           <p className="mt-3 text-gray-600">
             Productos personalizados con colores, identidad y creatividad.
           </p>
