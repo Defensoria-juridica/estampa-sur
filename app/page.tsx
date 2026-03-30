@@ -2,6 +2,7 @@ import Link from "next/link";
 import Products from "../components/Products";
 import Gallery from "../components/Gallery";
 import WhatsAppButton from "../components/WhatsAppButton";
+import Footer from "../components/Footer";
 
 const whatsappMessage = encodeURIComponent(
   "Hola, me interesa un producto personalizado de Estampa Sur. Quisiera más información."
@@ -186,6 +187,7 @@ export default function Home() {
         </div>
       </section>
       <WhatsAppButton />
+      <Footer />
     </main>
   );
 }
