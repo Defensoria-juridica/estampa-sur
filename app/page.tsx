@@ -1,5 +1,5 @@
-import FeaturedProducts from "../components/FeaturedProducts";
 import Link from "next/link";
+import Products from "../components/Products";
 
 const whatsappMessage = encodeURIComponent(
   "Hola, me interesa un producto personalizado de Estampa Sur. Quisiera más información."
@@ -111,7 +111,7 @@ export default function Home() {
           </div>
 
           <div className="mt-10">
-            <FeaturedProducts />
+            <Products />
           </div>
         </div>
       </section>
@@ -182,6 +182,7 @@ export default function Home() {
           </a>
         </div>
       </section>
+      <Products />
     </main>
   );
 }
